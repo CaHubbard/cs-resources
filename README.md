@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-### [General Help](#general-help)
+### [General Help](#general-help-1)
 
-### [Web databases / JS Frameworks](#web-databases--js-frameworks)
+### [Web databases / JS Frameworks](#web-databases--js-frameworks-1)
 
-### [HTML / CSS / JS](#html--css--js)
+### [HTML / CSS / JS](#html--css--js-1)
 
-### [Python](#python)
+### [Python](#python-1)
 
-### [SQL](#sql)
+### [SQL](#sql-1)
 
-### [Pandas](#pandas)
+### [Pandas](#pandas-1)
 
-### [Java/JavaFX](#javajavafx)
+### [Java/JavaFX](#javajavafx-1)
 
-### [Tensorflow / Machine Learning](#tensorflow--machine-learning)
+### [Tensorflow / Machine Learning](#tensorflow--machine-learning-1)
 
 #
 
