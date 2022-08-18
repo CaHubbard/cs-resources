@@ -8,6 +8,16 @@
 
 ### [HTML / CSS / JS](#html--css--js)
 
+### [Python](#python)
+
+### [SQL](#sql)
+
+### [Pandas](#pandas)
+
+### [Java/JavaFX](#javajavafx)
+
+### [Tensorflow / Machine Learning](#tensorflow--machine-learning)
+
 #
 
 ## General Help
